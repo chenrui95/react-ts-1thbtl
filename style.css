@@ -2,7 +2,7 @@
   margin-top: 40px;
   background-color: #fff;
   width: 40%;
-  transition: 1s ease-in;
+  transition: 1s ease;
   padding: 12px;
   font-size: 12px;
 }
@@ -11,7 +11,7 @@
   width: 200px;
   color: rgb(177, 169, 169);
   padding-top: 270px;
-  transition: 1s ease-in;
+  transition: 1s ease;
 }
 body {
   background-color: aliceblue;
